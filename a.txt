@@ -25,3 +25,5 @@ $ git log -g --grep="KEY WORDS" - use this commit to search the record note in o
 when a new file is added, use "$git add (file name)" in order to add the file to the 暫存區,
 then, use commit "$git commit -am "record note"" to send the file to 儲存區
 thus, once the file is updating, you will need to commit it again to make sure it's the last version.
+
+master version!!!!
