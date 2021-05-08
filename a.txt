@@ -1,2 +1,6 @@
 I love git && github!!!!!! lovein it!!
 rrrrrrrrrrrrrrrrrrrrr
+$git init - in order to create the .git files (first step)
+$git status - to check the status of you file which it is located.
+$git diff (file name) - help differentiate the differenace btw two commits.
+$git log - show all the commit records on the file where it located. 
