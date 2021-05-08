@@ -4,3 +4,9 @@ $git init - in order to create the .git files (first step)
 $git status - to check the status of you file which it is located.
 $git diff (file name) - help differentiate the differenace btw two commits.
 $git log - show all the commit records on the file where it located. 
+
+
+//////////////////////////////The prcoessing steps////////////////////////////////////
+when a new file is added, use "$git add (file name)" in order to add the file to the 暫存區,
+then, use commit "$git commit -am "record note"" to send the file to 儲存區
+thus, once the file is updating, you will need to commit it again to make sure it's the last version.
